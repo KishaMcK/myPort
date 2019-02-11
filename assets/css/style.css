@@ -4,8 +4,9 @@
 body{
     background-color: rgb(243, 243, 243);
 }
-h1{
+.display-4{
     color: rgb(9, 153, 158);
+    font-size: 70px; 
 }
 #carouselExampleFade{
     height: 500px;
@@ -27,10 +28,16 @@ h1{
     margin-left: auto;
 }
 .featurette-divider{
-    margin: 4rem;
+    margin: 5rem;
 }
 .center{
     text-align: center;
+}
+.card {
+    max-width: 960px;
+}
+.nav {
+    margin-bottom: 6rem;
 }
 
 
